@@ -1,4 +1,4 @@
-/**
+/**,
 * Template Name: DevFolio - v4.9.1
 * Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
 * Author: BootstrapMade.com
@@ -9,8 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color: #cea7da;
-  color: #c139f7;
+  background-color: #000000;
+  color: #000000;
 }
 
 h1,
@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #1e1e1e;
+  color: #bd7ce9;
 }
 
 a {
@@ -99,7 +99,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #c139f7;
+  background-color: #200129;
 }
 
 .overlay-mf {
@@ -144,7 +144,7 @@ a:hover {
 /*--/ Title s /--*/
 .title-s {
   font-weight: 600;
-  color: #1e1e1e;
+  color: #bd7ce9;
   font-size: 1.1rem;
 }
 
@@ -162,13 +162,13 @@ a:hover {
 
 .subtitle-a {
   text-decoration: none;
-  color: #4e4e4e;
+  color: #ffffff;
 }
 
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #c139f7;
+  background-color: #bd7ce9;
   margin: 0 auto;
 }
 
@@ -186,7 +186,7 @@ a:hover {
   content: "";
   position: absolute;
   height: 3px;
-  background-color: #c139f7;
+  background-color: #bd7ce9;
   width: 100px;
   bottom: -12px;
 }
@@ -227,7 +227,7 @@ a:hover {
   border-radius: 50%;
   line-height: 1.6;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #c139f7f;
+  box-shadow: 0 0 0 3px #c139f7;
   transition: all 500ms ease;
 }
 
@@ -379,7 +379,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #c139f7f;
+  border-top: 6px solid #c139f7;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -560,7 +560,7 @@ a:hover {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #fff;
+  color: #c139f7;
 }
 
 .navbar .dropdown ul {
@@ -867,7 +867,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #c139f7;
+  background-color: #bd7ce9;
 }
 
 /*--------------------------------------------------------------
@@ -1092,8 +1092,8 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #c139f7;
-  background-color: #fff;
+  color: #120c14;
+  background-color: rgb(32, 17, 17);
   width: 52px;
   height: 52px;
   display: block;
@@ -1430,8 +1430,8 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color:   border-left: 5px solid #c139f7;
-  ;
+  background-color:#c139f7;
+  border-left: 5px solid;
   top: 20px;
 }
 
