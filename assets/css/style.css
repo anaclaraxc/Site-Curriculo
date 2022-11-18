@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color: #000000;
+  background-color: #ffffff;
   color: #000000;
 }
 
@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #c139f7;
+  color: #bd7ce9;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -40,7 +40,7 @@ a:hover {
 
 .color-a {
   text-decoration: none;
-  color: #c139f7;
+  color: #bd7ce9;
 }
 
 .color-d {
@@ -99,7 +99,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #200129;
+  background-color: #26083a;
 }
 
 .overlay-mf {
@@ -162,7 +162,7 @@ a:hover {
 
 .subtitle-a {
   text-decoration: none;
-  color: #ffffff;
+  color: #000000;
 }
 
 .line-mf {
@@ -560,7 +560,7 @@ a:hover {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #c139f7;
+  color: #ffffff;
 }
 
 .navbar .dropdown ul {
@@ -874,7 +874,7 @@ a:hover {
 # Services
 --------------------------------------------------------------*/
 .service-box {
-  background-color: #fff;
+  background-color: rgb(0, 0, 0);
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
@@ -890,7 +890,7 @@ a:hover {
 
 .service-box .service-ico {
   margin-bottom: 1rem;
-  color: #1e1e1e;
+  color: #ffffff;
 }
 
 .service-box .ico-circle {
@@ -913,7 +913,7 @@ a:hover {
 }
 
 .service-box .s-description {
-  color: #4e4e4e;
+  color: #ffffff;
 }
 
 /*--------------------------------------------------------------
@@ -1342,7 +1342,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #c139f7;
+  border-left: 4px solid #bd7ce9;
   margin-top: 1rem;
 }
 
@@ -1360,7 +1360,7 @@ a:hover {
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #c139f7;
+  border-left: 4px solid #bd7ce9;
   padding: 18px;
   font-style: italic;
 }
@@ -1397,7 +1397,7 @@ a:hover {
 }
 
 .box-comments .list-comments a {
-  color: #c139f7;
+  color: #bd7ce9;
 }
 
 .box-comments .list-comments span {
@@ -1413,7 +1413,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #c139f7;
+  border-left: 5px solid #bd7ce9;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1430,7 +1430,7 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color:#c139f7;
+  background-color:#bd7ce9;
   border-left: 5px solid;
   top: 20px;
 }
@@ -1442,8 +1442,8 @@ a:hover {
 }
 
 .sidebar-search .btn-search {
-  background-color: #c139f7;
-  border-color: #c139f7;
+  background-color: #bd7ce9;
+  border-color: #bd7ce9;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1451,7 +1451,7 @@ a:hover {
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #c139f7;
+  background-color: #bd7ce9;
   padding: 0.2rem 0.6rem;
   margin-bottom: 0.5rem;
   border-radius: 15px;
@@ -1468,7 +1468,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #c139f7;
+  background: #bd7ce9;
 }
 
 footer .copyright {
