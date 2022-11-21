@@ -8,6 +8,8 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+
 body {
   background-color: #ffffff;
   color: #000000;
@@ -1135,6 +1137,7 @@ a:hover {
 .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #fff;
 }
+
 
 /*--------------------------------------------------------------
 # Contact
