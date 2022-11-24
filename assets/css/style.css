@@ -439,7 +439,7 @@ a:hover {
   text-decoration: none;
   background-color: #c139f7;
   color: #fff;
-  border-color: #cde1f8;
+  border-color: #c139f7;
 }
 
 .button-big {
@@ -1463,6 +1463,11 @@ a:hover {
 .widget-tags ul li a {
   color: #fff;
 }
+
+.btn-primary{
+  color:#bd7ce9;
+}
+
 
 /*--------------------------------------------------------------
 # Footer
