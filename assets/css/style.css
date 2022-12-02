@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: #bd7ce9;
+  color: #49126d;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -42,7 +42,7 @@ a:hover {
 
 .color-a {
   text-decoration: none;
-  color: #bd7ce9;
+  color: #49126d;
 }
 
 .color-d {
@@ -51,7 +51,7 @@ a:hover {
 
 .color-text-a {
   text-decoration: none;
-  color: #4e4e4e;
+  color: #ffffff;
 }
 
 .box-shadow,
@@ -329,6 +329,7 @@ a:hover {
   cursor: pointer;
   border-radius: 50%;
 }
+
 
 /*--------------------------------------------------------------
 # Back to top button
